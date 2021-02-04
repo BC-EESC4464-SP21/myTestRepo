@@ -1,2 +1,2 @@
 # myTestRepo
- Data Explor. & Explor.
+ Data Explor. & Analy. Class
