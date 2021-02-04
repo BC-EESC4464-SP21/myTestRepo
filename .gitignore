@@ -1,2 +1,2 @@
-
-.DS_Store
+# Unneeded system file specific to MacOS
+*.DS_Store
