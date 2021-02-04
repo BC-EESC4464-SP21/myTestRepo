@@ -1,2 +1,3 @@
 # myTestRepo
- Data Explor. & Analy. Class
+*Data Explor. & Analy. Class*
+Feb 3
